@@ -18,12 +18,12 @@ A curated list of papers, benchmarks, and systems for agentic chip design. This 
 
 ### Benchmarks and Evaluation
 
-- [HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks](https://arxiv.org/abs/2604.14709) | arXiv 2026 | Peking University | [PDF](papers/2604.14709v1.pdf)
+- [HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks](https://arxiv.org/abs/2604.14709) | arXiv 2026 | Peking University
   - Introduces a repository-level benchmark for evaluating LLM agents on real hardware bug repair tasks across Verilog/SystemVerilog and Chisel projects.
 
 ### Architecture Exploration
 
-- [From LLM to Silicon: RL-Driven ASIC Architecture Exploration for On-Device AI Inference](https://arxiv.org/abs/2604.07526) | arXiv 2026 | XgenSilicon | [PDF](papers/2604.07526v1.pdf)
+- [From LLM to Silicon: RL-Driven ASIC Architecture Exploration for On-Device AI Inference](https://arxiv.org/abs/2604.07526) | arXiv 2026 | XgenSilicon
   - Presents an RL-driven compiler that jointly optimizes ASIC architecture, memory hierarchy, and workload partitioning for on-device AI inference.
 
 ## Contributing
