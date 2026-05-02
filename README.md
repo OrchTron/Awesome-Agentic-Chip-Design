@@ -8,18 +8,42 @@ A curated list of papers, benchmarks, and systems for agentic chip design. This 
   - [Contents](#contents)
   - [Must-Reads](#must-reads)
   - [Papers](#papers)
+    - [Surveys](#surveys)
     - [Benchmarks and Evaluation](#benchmarks-and-evaluation)
+    - [RTL Generation and Optimization](#rtl-generation-and-optimization)
+    - [EDA Flow Optimization](#eda-flow-optimization)
     - [Architecture Exploration](#architecture-exploration)
   - [Contributing](#contributing)
 
 ## Must-Reads
 
+- [The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design](https://arxiv.org/abs/2512.23189) | arXiv 2025
+- [HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks](https://arxiv.org/abs/2604.14709) | arXiv 2026
+- [ORFS-agent: Tool-Using Agents for Chip Design Optimization](https://arxiv.org/abs/2506.08332) | arXiv 2025
+
 ## Papers
+
+### Surveys
+
+- [The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design](https://arxiv.org/abs/2512.23189) | arXiv 2025 | Tsientang Institute for Advanced Study, Zhejiang University
+  - Surveys the shift from traditional CAD and AI-assisted EDA toward AI-native and agentic digital chip design across RTL generation, verification, physical design, and tool orchestration.
 
 ### Benchmarks and Evaluation
 
 - [HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks](https://arxiv.org/abs/2604.14709) | arXiv 2026 | Peking University
   - Introduces a repository-level benchmark for evaluating LLM agents on real hardware bug repair tasks across Verilog/SystemVerilog and Chisel projects.
+
+### RTL Generation and Optimization
+
+- [Spec2RTL-Agent: Automated Hardware Code Generation from Complex Specifications Using LLM Agent Systems](https://arxiv.org/abs/2506.13905) | arXiv 2025 | NVIDIA Research, Cadence, Georgia Institute of Technology
+  - Proposes an LLM agent system that processes complex specification documents and generates corresponding RTL implementations.
+- [Dr. RTL: Autonomous Agentic RTL Optimization through Tool-Grounded Self-Improvement](https://arxiv.org/abs/2604.14989) | arXiv 2026 | Hong Kong University of Science and Technology
+  - Presents a multi-agent RTL timing optimization framework with critical-path analysis, parallel rewriting, tool-based evaluation, and reusable optimization skills.
+
+### EDA Flow Optimization
+
+- [ORFS-agent: Tool-Using Agents for Chip Design Optimization](https://arxiv.org/abs/2506.08332) | arXiv 2025 | UC San Diego
+  - Introduces an LLM-based tool-using agent for iterative parameter tuning in open-source chip design flows, improving routed wirelength and effective clock period with fewer optimization iterations.
 
 ### Architecture Exploration
 
