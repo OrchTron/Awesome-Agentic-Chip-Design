@@ -32,6 +32,8 @@ A curated list of papers, benchmarks, and systems for agentic chip design. This 
 
 - [HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks](https://arxiv.org/abs/2604.14709) | arXiv 2026 | Peking University
   - Introduces a repository-level benchmark for evaluating LLM agents on real hardware bug repair tasks across Verilog/SystemVerilog and Chisel projects.
+- [Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows](https://arxiv.org/abs/2607.17528) | arXiv 2026 | Zhejiang University, ChipFlux
+  - Benchmarks general-purpose coding agents, EDA skill-augmented agents, and structured execution infrastructure on end-to-end PicoRV32 RTL-to-GDS flows, highlighting stage completion, Token ROI, and tool-interface reliability.
 
 ### RTL Generation and Optimization
 
