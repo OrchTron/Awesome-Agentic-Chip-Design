@@ -20,6 +20,7 @@ A curated list of papers, benchmarks, and systems for agentic chip design. This 
 - [The Dawn of Agentic EDA: A Survey of Autonomous Digital Chip Design](https://arxiv.org/abs/2512.23189) | arXiv 2025
 - [HWE-Bench: Benchmarking LLM Agents on Real-World Hardware Bug Repair Tasks](https://arxiv.org/abs/2604.14709) | arXiv 2026
 - [ORFS-agent: Tool-Using Agents for Chip Design Optimization](https://arxiv.org/abs/2506.08332) | arXiv 2025
+- [Academia x Industry: The Role of Fundamentals for Silicon in an AI Native Era](https://arxiv.org/abs/2609.09344) | arXiv 2026
 
 ## Papers
 
