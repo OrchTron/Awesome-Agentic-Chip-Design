@@ -60,6 +60,8 @@ A curated list of papers, benchmarks, and systems for agentic chip design. This 
   - Presents an RL-driven compiler that jointly optimizes ASIC architecture, memory hierarchy, and workload partitioning for on-device AI inference.
 - [Design Conductor 2.0: An Agent Builds a TurboQuant Inference Accelerator in 80 Hours](https://arxiv.org/abs/2605.05170) | arXiv 2026 | Verkor
   - Presents a long-running multi-agent system that autonomously translates high-level concepts into verified hardware designs, including a TurboQuant accelerator mapped to FPGA and evaluated in TSMC 16FF.
+- [Do AI Agents Understand Computer Architecture?](https://arxiv.org/abs/2609.19387) | arXiv 2026 | Microsoft Research
+  - Introduces AutoTuring, a controlled GPU accelerator design-space exploration study that isolates architectural reasoning from black-box search by comparing hardware-aware and semantically opaque views of the same optimization problem.
 
 ## Contributing
 
