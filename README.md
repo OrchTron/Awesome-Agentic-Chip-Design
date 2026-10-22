@@ -41,6 +41,8 @@ A curated list of papers, benchmarks, and systems for agentic chip design. This 
   - Introduces a 353-task benchmark and tool-integrated multi-agent framework for evaluating physical-design knowledge, report comprehension, root-cause analysis, EDA script generation, and full RTL-to-GDSII execution.
 - [Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows](https://arxiv.org/abs/2607.17528) | arXiv 2026 | Zhejiang University, ChipFlux
   - Benchmarks general-purpose coding agents, EDA skill-augmented agents, and structured execution infrastructure on end-to-end PicoRV32 RTL-to-GDS flows, highlighting stage completion, Token ROI, and tool-interface reliability.
+- [Evaluating Agentic AI for Chip Design: Information Loss in Cost–Deadline Benchmarks](https://doi.org/10.5281/zenodo.23545974) | Zenodo 2026 | NVIDIA
+  - A benchmark audit showing how cost–deadline reporting loses information when evaluating agentic AI systems for chip design, with a reproducibility artifact.
 
 ### RTL Generation and Optimization
 
